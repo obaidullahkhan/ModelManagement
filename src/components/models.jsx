@@ -31,7 +31,6 @@ class Models extends Component {
   };
 
   render() {
-    const { length: count } = this.state.models;
     const {
       pageSize,
       currentPage,

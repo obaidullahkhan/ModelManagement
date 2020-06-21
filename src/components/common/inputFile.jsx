@@ -13,6 +13,7 @@ const InputFile = ({ name, label, error, ...rest }) => {
         className="form-control"
         type="file"
         accept="image/*"
+        multiple
       />
       {error && <div className="alert alert-danger">{error}</div>}
     </div>

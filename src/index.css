@@ -13,6 +13,20 @@ body {
   background-color: #563d7c !important;
 }
 
+.btn-primary {
+  color: #fff;
+  background-color: #563d7c !important;
+  border-color: #563d7c !important;
+}
+.page-item {
+  cursor: pointer;
+  background-color: #563d7c !important;
+  border-color: #563d7c !important;
+}
+.navbar-brand {
+  color: #ffffff !important;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

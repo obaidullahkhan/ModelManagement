@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light card-raised">
-      <Link className="navbar-brand text-dark" to="/">
+      <Link className="navbar-brand" to="/">
         Model Management
       </Link>
       <button
